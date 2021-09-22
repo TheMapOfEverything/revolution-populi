@@ -66,7 +66,7 @@ https://youtu.be/afQwHdwbN-U?t=1109
 - 00-00-2021: [Trump Considers Contenders to Be His New Social-Media Outlet After Big Tech Crackdown](https://www.wsj.com/articles/trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown-11621013567)
 - 00-00-2021: [They are going to leave Facebook: A chat with social networkers Revolution Populi](https://www.zdnet.com/article/they-are-going-to-leave-facebook-a-chat-with-new-social-networkers-revolution-populi/)
 - 00-00-2021: [Yale Prof and Goldman Sachs Veteran Design DLT-Based Facebook Rival](https://cointelegraph.com/news/yale-prof-and-goldman-sachs-veteran-design-dlt-based-facebook-rival)
-- 00-00-2021: [How a blockchain-backed platform is rivaling Facebook](https://finance.yahoo.com/video/revolution-populi-taking-facebook-174605042.html)
+
 - 00-00-2021: []()
 - 00-00-2021: []()
 
